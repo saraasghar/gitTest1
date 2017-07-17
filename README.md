@@ -1,2 +1,4 @@
-# gitTest1
-testing GitHub
+Test1
+
+typing in test file.. after much difficulty
+
